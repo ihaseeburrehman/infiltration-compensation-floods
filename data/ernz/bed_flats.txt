@@ -1,0 +1,12 @@
+burnt cells 29202 (292 km of channel at one cell per 10 m); mean lowering 1.24 m
+burnt cells with no fall to a burnt neighbour (flat): 952 (3.3 %); local pits (all burnt neighbours higher): 32
+flat reaches: 761; longest 130 m; total 9.5 km; reaches >=100 m: 1, >=300 m: 0, >=1000 m: 0
+  reach   130 m at (86055, 87045), bed 299.7 m, nearest transect Larochette 8.5 km away
+  reach    40 m at (87265, 98100), bed 306.5 m, nearest transect Beaufort 3.8 km away
+  reach    40 m at (83140, 91415), bed 288.0 m, nearest transect Larochette 3.9 km away
+  reach    40 m at (90950, 97075), bed 188.7 m, nearest transect Beaufort 1.4 km away
+  reach    30 m at (82865, 90895), bed 290.0 m, nearest transect Larochette 4.4 km away
+  reach    30 m at (83218, 97818), bed 249.2 m, nearest transect Larochette 2.6 km away
+  reach    30 m at (83365, 91418), bed 287.2 m, nearest transect Larochette 3.8 km away
+  reach    30 m at (83878, 99852), bed 241.9 m, nearest transect Larochette 4.6 km away
+fall per 10 m cell along burnt cells: median 0.260 m, p10 0.001, p90 1.270; share with fall < 1 cm: 15.3 %, < 5 cm: 22.2 %

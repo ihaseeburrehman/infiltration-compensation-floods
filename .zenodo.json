@@ -1,0 +1,13 @@
+{
+  "title": "Infiltration and compensating errors in forecast driven flood simulations: code, run files and derived data",
+  "upload_type": "software",
+  "description": "Scripts, LISFLOOD-FP run files and derived results (scores, simulated hydrographs and stage, water balance, Sentinel-1 scores, section fluxes) for the paper 'Right for the wrong reasons: data driven and physics based rainfall forecasts match two Luxembourg floods only when soil infiltration is omitted' (manuscript for Hydrology and Earth System Sciences). Two shallow water models are forced with radar rainfall and with GraphCast, AIFS, FuXi and WRF forecasts, without and with Green-Ampt infiltration, for the Alzette flood of July 2021 and the Ernz flash flood of 1 June 2018. Input data under third party licences (observations, radar, soil, terrain) are not included; the README lists their sources. Funded by the Luxembourg National Research Fund (FNR), Industrial Fellowship, project no. 17130773.",
+  "creators": [
+    {"name": "Rehman, Haseeb ur", "affiliation": "University of Luxembourg"},
+    {"name": "Teferle, Félicia Norma Rebecca", "affiliation": "University of Luxembourg"},
+    {"name": "Schumann, Guy", "affiliation": "RSS-Hydro SARL"}
+  ],
+  "license": "MIT",
+  "keywords": ["flood simulation", "LISFLOOD-FP", "HiPIMS", "Green-Ampt infiltration", "GraphCast", "AIFS", "FuXi", "WRF", "radar rainfall", "Luxembourg"],
+  "access_right": "open"
+}

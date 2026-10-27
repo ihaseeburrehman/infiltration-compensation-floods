@@ -1,0 +1,69 @@
+{
+ "Walferdange": {
+  "gauge_zero": 225.32,
+  "water_surface": 225.87,
+  "water_width": 20.5,
+  "bank_crest_left": 229.63,
+  "bank_crest_right": 229.3,
+  "bankfull_depth_above_water": 3.43,
+  "bankfull_width": 207.5,
+  "model_bed": 225.92,
+  "model_channel_width": 29.8,
+  "model_bank_crest": 229.03,
+  "obs_peak_wse": 228.85,
+  "width_at_obs_peak": 36.25,
+  "obs_peak_above_bank_crest": -0.46,
+  "wet_from_to": [
+   -7.25,
+   29.0
+  ]
+ },
+ "Steinsel": {
+  "gauge_zero": 222.26,
+  "water_surface": 223.27,
+  "water_width": 13.75,
+  "bank_crest_left": 225.14,
+  "bank_crest_right": 227.97,
+  "bankfull_depth_above_water": 1.87,
+  "bankfull_width": 46.75,
+  "model_bed": 223.29,
+  "model_channel_width": 21.8,
+  "model_bank_crest": 225.12
+ },
+ "Pfaffenthal": {
+  "gauge_zero": 235.25,
+  "water_surface": 235.43,
+  "water_width": 16.0,
+  "bank_crest_left": 240.41,
+  "bank_crest_right": 241.55,
+  "bankfull_depth_above_water": 4.98,
+  "bankfull_width": 53.75,
+  "model_bed": 235.44,
+  "model_channel_width": 20.0,
+  "model_bank_crest": 240.31
+ },
+ "Livange": {
+  "gauge_zero": 265.86,
+  "water_surface": 266.43,
+  "water_width": 7.75,
+  "bank_crest_left": 268.85,
+  "bank_crest_right": 269.76,
+  "bankfull_depth_above_water": 2.41,
+  "bankfull_width": 204.5,
+  "model_bed": 266.42,
+  "model_channel_width": 30.8,
+  "model_bank_crest": 269.1
+ },
+ "Hesperange": {
+  "gauge_zero": 255.74,
+  "water_surface": 256.43,
+  "water_width": 11.5,
+  "bank_crest_left": 261.98,
+  "bank_crest_right": 272.41,
+  "bankfull_depth_above_water": 5.55,
+  "bankfull_width": 58.0,
+  "model_bed": 256.43,
+  "model_channel_width": 12.8,
+  "model_bank_crest": 261.92
+ }
+}

@@ -1,0 +1,5 @@
+observed Larochette: peak 11.7 m3/s at hour 9 (rain peak hour 6, so 3 h after the rain)
+noinf default n  : Larochette peak   85.4 at hour 12 (6 h after rain, +3 h vs observed), Q at hour 9  51.6, at hour 16  37.6, NSE -73.50; Mullerthal peak  192.9 at hour 7
+noinf veg n=0.05 : Larochette peak   97.0 at hour 12 (6 h after rain, +3 h vs observed), Q at hour 9  66.0, at hour 16  30.8, NSE -89.18; Mullerthal peak  174.8 at hour 7
+ga    default n  : Larochette peak   44.4 at hour 13 (7 h after rain, +4 h vs observed), Q at hour 9  27.9, at hour 16  29.5, NSE -18.54; Mullerthal peak  167.9 at hour 7
+ga    veg n=0.05 : Larochette peak   55.5 at hour 12 (6 h after rain, +3 h vs observed), Q at hour 9  31.7, at hour 16  24.6, NSE -24.29; Mullerthal peak  147.2 at hour 7

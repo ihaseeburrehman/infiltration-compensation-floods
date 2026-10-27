@@ -1,0 +1,17 @@
+dirroot                  /ec/res4/scratch/lux0804/ernz2018/runs/E18_F_wrf12noda_noinf/results
+resroot                  1hr
+DEMfile                  /ec/res4/scratch/lux0804/ernz2018/inputs/dem10_cond.asc
+manningfile              /ec/res4/scratch/lux0804/ernz2018/inputs/manning.n.ascii
+dynamicrainfile          /ec/res4/scratch/lux0804/ernz2018/forcing/rain_F_wrf12noda.nc
+fv1
+cuda
+GPUs 1
+sim_time                 172800
+initial_tstep            10
+massint                  600
+saveint                  3600
+bcifile                  /ec/res4/scratch/lux0804/ernz2018/inputs/Border.bci
+nodata_elevation         -9999
+drain_nodata
+qoutput
+startfile                /ec/res4/scratch/lux0804/ernz2018/runs/E18_R_1km_1h_spinup_ga/results/1hr-0048.wd

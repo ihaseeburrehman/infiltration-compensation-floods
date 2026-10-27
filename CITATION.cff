@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Infiltration and compensating errors in forecast driven flood simulations: code, run files and derived data"
+authors:
+  - family-names: Rehman
+    given-names: Haseeb ur
+    affiliation: University of Luxembourg
+  - family-names: Teferle
+    given-names: Félicia Norma Rebecca
+    affiliation: University of Luxembourg
+  - family-names: Schumann
+    given-names: Guy
+    affiliation: RSS-Hydro SARL
+license: MIT
+repository-code: "https://github.com/ihaseeburrehman/infiltration-compensation-floods"
+keywords: [flood simulation, LISFLOOD-FP, HiPIMS, Green-Ampt infiltration, GraphCast, AIFS, FuXi, WRF, radar rainfall, Luxembourg]
